@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "Api JSON Server para pruebas de Frontend con React",
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^1.0.0-beta.3"
   }
 }
- 
