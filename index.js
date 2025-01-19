@@ -5,11 +5,11 @@ const middlewares = jsonServer.defaults();
 const cors = require('cors');
 
 server.use(middlewares);
-server.use(cors());
+// server.use(cors());
+server.use(router);
 
 const PORT = process.env.PORT || 3005;
 
-server.use(router);
 
 server.listen(PORT);
 
