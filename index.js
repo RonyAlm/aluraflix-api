@@ -6,13 +6,10 @@ const cors = require('cors');
 
 server.use(middlewares);
 server.use(cors());
-server.use(jsonServer.bodyParser);
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3005;
 
 server.use(router);
 
-server.listen(PORT, () => {
-    console.log(`JSON Server is running on http://localhost:${PORT}`);
-});
+server.listen(PORT);
 
