@@ -1,0 +1,16 @@
+{
+  "name": "01-api-json-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "Rony Almirón",
+  "license": "ISC",
+  "description": "Api JSON Server para pruebas de Frontend con React",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
+ 
