@@ -10,28 +10,28 @@
       },
       {
          "id": 2,
-         "title": "¿Cuál es la diferencia entre Front End y Back End?",
-         "description": "¿Cuál es la diferencia entre Front End y Back End?",
-         "urlVideo": "https://www.youtube.com/embed/R9uaBxgCkyA?si=lsBwBKd54s7qpUpL",
-         "urlImage": "https://i.ytimg.com/vi/R9uaBxgCkyA/maxresdefault.jpg",
+         "title": "Equipo Front End",
+         "description": "Equipo Front End",
+         "urlVideo": "https://www.youtube.com/embed/rpvrLaBQwgg?si=tdaZTVYaK_eBn2BY",
+         "urlImage": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
          "cotegoryId": 1
       },
       {
          "id": 3,
-         "title": "¿Cuál es la diferencia entre Front End y Back End?",
-         "description": "¿Cuál es la diferencia entre Front End y Back End?",
-         "urlVideo": "https://www.youtube.com/embed/R9uaBxgCkyA?si=lsBwBKd54s7qpUpL",
-         "urlImage": "https://i.ytimg.com/vi/R9uaBxgCkyA/maxresdefault.jpg",
+         "title": "Creando Base de Datos",
+         "description": "Creando Base de Datos en MySQL y Java",
+         "urlVideo": "https://www.youtube.com/embed/59TU5iAd174?si=enQZaLk2330JL6ZN",
+         "urlImage": "https://i.ytimg.com/vi/59TU5iAd174/maxresdefault.jpg",       
          "cotegoryId": 2
       },
       {
          "id": 4,
-         "title": "¿Cuál es la diferencia entre Front End y Back End?",
-         "description": "¿Cuál es la diferencia entre Front End y Back End?",
-         "urlVideo": "https://www.youtube.com/embed/R9uaBxgCkyA?si=lsBwBKd54s7qpUpL",
-         "urlImage": "https://i.ytimg.com/vi/R9uaBxgCkyA/maxresdefault.jpg",
-         "cotegoryId": 1
-      }  
+         "title": "Creando Base de Datos",
+         "description": "Creando Base de Datos en MySQL y Java",
+         "urlVideo": "https://www.youtube.com/embed/59TU5iAd174?si=enQZaLk2330JL6ZN",
+         "urlImage": "https://i.ytimg.com/vi/59TU5iAd174/maxresdefault.jpg",       
+         "cotegoryId": 2
+      }
    ],
    
    "categories": [
