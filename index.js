@@ -11,5 +11,5 @@ server.use(router);
 const PORT = process.env.PORT || 3005;
 
 
-server.listen(PORT);
+server.listen(PORT, () => console.log(` corriendo en puerto http://localhost:${PORT}`));
 
