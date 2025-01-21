@@ -61,6 +61,26 @@
     {
       "id": 3,
       "name": "Mobile"
+    },
+    {
+      "id": 4,
+      "name": "DevOps"
+    },
+    {
+      "id": 5,
+      "name": "Ignovación y Gestión"
+    },
+    {
+      "id": 6,
+      "name": "Data Science"
+    },
+    {
+      "id": 7,
+      "name": "Seguridad"
+    },
+    {
+      "id": 8,
+      "name": "Diseño UX/UI"
     }
   ]
 }
